@@ -221,8 +221,8 @@ header div h3 span{
     }
     .badge-child-2{
         position: relative;
-        bottom: -50px;
-        left: -60px;
+        bottom: 150px;
+        left: 410px;
         height: 200px;
         width: 180px;
     }
